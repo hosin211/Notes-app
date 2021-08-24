@@ -1,7 +1,5 @@
-# notes_app
+# Sample Notes_app
 
-A  Flutter application.
 
-![gif](https://github.com/hosin211/Notes-app/blob/main/screen%20record.gif
-)
+![gif](https://github.com/hosin211/Notes-app/blob/main/screen%20record.gif)
 
